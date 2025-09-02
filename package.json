@@ -1,0 +1,18 @@
+{
+  "name": "docker_gradio_erc2024",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build --base /docker_huggingface_erc2024/",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.50.0-beta.5",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "slidev-theme-light-icons": "^1.0.2",
+    "vue": "^3.5.12"
+  },
+  "packageManager": "pnpm@10.8.0+sha512.0e82714d1b5b43c74610193cb20734897c1d00de89d0e18420aebc5977fa13d780a9cb05734624e81ebd81cc876cd464794850641c48b9544326b5622ca29971"
+}
