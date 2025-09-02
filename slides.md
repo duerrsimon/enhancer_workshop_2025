@@ -5,9 +5,9 @@ theme: default
 # like them? see https://unsplash.com/collections/94734566/slidev
 background:
 # some information about your slides (markdown enabled)
-title: Sharing Protein AI Models Using Huggingface
+title: Gradio Workshop
 info: |
-  Docker + Gradio + Rest API
+  Duild FAIR web apps for science with Gradio and HuggingFace Spaces
 # apply unocss classes to the current slide
 class: text-center
 # https://sli.dev/features/drawing

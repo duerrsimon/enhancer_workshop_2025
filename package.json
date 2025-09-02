@@ -1,9 +1,9 @@
 {
-  "name": "docker_gradio_erc2024",
+  "name": "enhancer_workshop_2025",
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "slidev build --base /docker_huggingface_erc2024/",
+    "build": "slidev build --base /enhancer_workshop_2025/",
     "dev": "slidev --open",
     "export": "slidev export"
   },
