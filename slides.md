@@ -55,9 +55,13 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 ---
 transition: fade-out
-layout: iframe
-url: https://simonduerr-proteinmpnn.hf.space
 ---
+
+
+<iframe src="https://simonduerr-proteinmpnn.hf.space" style="  transform: scale(0.71);
+  transform-origin: 0 0;
+  width: 150.33%;
+  height: 150.33%;"> </iframe>
 
 
 
@@ -156,6 +160,17 @@ class: text-center
 Modern web development is a **mess**. 
 
 **Vibe coding** (v0, lovable etc.) makes it even easier to quickly create messy websites. 
+
+
+
+---
+class: text-center
+---
+
+<br><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/FAIR_data_principles.jpg/1200px-FAIR_data_principles.jpg?20161122143747" class="mx-auto w-2/3" />
+
+Webservers implemented by scientists are often only **FA** and not **IR**
 
 ---
 ---
